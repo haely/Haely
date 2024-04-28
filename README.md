@@ -1,7 +1,7 @@
 # Hi there, I'm Haely 👋
 
 ## About Me
-I am a curious learmer with a background in infrastructure and statistics. Inspired by my go-to stat page statmike, I too love to learn 'almost' as much as I love to share what I have learnt. These days I am delving into what they call DataOps or Data Centric AI,  and what I label as Data Parent.
+I am a curious learmer with a background in infrastructure and statistics. I love to learn *almost* as much as I love to share what I have learnt. These days I am delving into what they call DataOps or Data Centric AI, and what I label as Data Parenting.
 
 
 ## My Interests
