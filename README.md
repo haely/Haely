@@ -16,5 +16,5 @@ I am a curious learmer with a background in infrastructure and statistics. I lov
 - LinkedIn: https://www.linkedin.com/in/haelyshah/
 
 ## Fun Fact
-1. I love statistical paradoxes and I love to force them into my conversation.
+1. I love statistical paradoxes and I am told that I force them into everything I read and write.
 2. 1995 BBC Pride&Prejudice >>> all of them
