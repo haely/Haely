@@ -1,12 +1,12 @@
-# Hi there, I'm Haely Shah! 👋
+# Hi there, I'm Haely 👋
 
 ## About Me
-I am a curious software/infra engineer who love learning and sharing what I know. By day, I research how to optimize cloud infrastructure and maintain best practices. In my free time, I delve into what's new in ML scalability, system design issues.
+I am a curious learmer with a background in infrastructure and statistics. Inspired by my go-to stat page statmike, I too love to learn 'almost' as much as I love to share what I have learnt. These days I am delving into what they call DataOps or Data Centric AI,  and what I label as Data Parent.
 
 
 ## My Interests
-- Cloud Computing (Google Cloud Platform, AWS)
-- Machine Learning Operations (ML Ops)
+- Cloud Optimization (Google Cloud Platform, AWS)
+- Machine Learning/Data Operations (ML/DataOps)
 - NLP on Non-Latin languages
   
 ## Recent Projects
