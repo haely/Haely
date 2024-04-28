@@ -10,10 +10,11 @@ I am a curious learmer with a background in infrastructure and statistics. I lov
 - NLP on Non-Latin languages
   
 ## Recent Projects
-- 
+- https://github.com/haely/DataParenting/blob/main/README.md
 
 ## Get in Touch
 - LinkedIn: https://www.linkedin.com/in/haelyshah/
 
 ## Fun Fact
-I love Jane Austen and my testcases somethimes have Darcy and Wickham as main characterse.  
+1. I love statistical paradoxes and I love to force them into my conversation.
+2. 1995 BBC Pride&Prejudice >>> all of them
