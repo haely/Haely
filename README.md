@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Haely Shah! 👋
 
 ## About Me
 I am a curious software/infra engineer who love learning and sharing what I know. By day, I research how to optimize cloud infrastructure and maintain best practices. In my free time, I delve into what's new in ML scalability, system design issues.
