@@ -10,7 +10,7 @@ I am a curious learner with a background in infrastructure and statistics. I lov
 - NLP on Non-Latin languages
   
 ## Recent Projects
-- https://github.com/haely/DataParenting/blob/main/README.md
+- Git: https://github.com/haely/TinyMLnotes
 
 ## Get in Touch
 - LinkedIn: https://www.linkedin.com/in/haelyshah/
