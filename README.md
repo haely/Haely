@@ -5,7 +5,7 @@ I am a curious learner with a background in infrastructure and statistics. I lov
 
 
 ## My Interests
-- Cloud Optimization (Google Cloud Platform, AWS)
+- Cloud & ML Optimization (Google Cloud Platform, AWS)
 - Machine Learning/Data Operations (ML/DataOps)
 - NLP on Non-Latin languages
   
