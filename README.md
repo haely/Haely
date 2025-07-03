@@ -16,6 +16,3 @@ I am a curious learner with a background in infrastructure and statistics. I lov
 ## Get in Touch
 - LinkedIn: https://www.linkedin.com/in/haelyshah/
 
-## Fun Fact
-1. I love statistical paradoxes and I am told that I force them into everything I read and write.
-2. 1995 BBC Pride&Prejudice >>> all of them
